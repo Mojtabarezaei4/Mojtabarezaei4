@@ -7,7 +7,7 @@ I am 21years old and studying .NET Developer at IT-Högskolan in Gothenburg.
 
 * Skills: C# / Java / HTML / CSS
 ---
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojtabarezaei4)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojtabarezaei4)  -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mojtabarezaei4&show_icons=true&theme=dracula)
 
