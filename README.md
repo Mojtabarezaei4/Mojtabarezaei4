@@ -1,11 +1,11 @@
 # Mojtaba Rezaei
 ##### .NET Developer student
 ---
-Is my name hard for you to pronounce? So call me Mojje.
+Is my name hard for you to pronounce? So call me Mojje, still hard? What about Moji?
 
-I am 21years old and studying .NET Developer at IT-Högskolan in Gothenburg. 
+I work with Azure, making integrations. I do C# coding off-work because I like pro-coding.  
 
-* Skills: C# / Java / HTML / CSS
+* Skills: .NET - AIS
 ---
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojtabarezaei4)  -->
 
