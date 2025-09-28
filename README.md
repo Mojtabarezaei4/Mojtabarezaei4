@@ -1,7 +1,7 @@
 # Mojtaba Rezaei
 ##### .NET and integration developer
 ---
-Is my name hard for you to pronounce? So call me Mojje, still hard? What about Moji?
+Is my name hard for you to pronounce? So call me Mojje. Still hard? What about Moji?
 
 I work with Azure, making integrations. I do C# coding off-work because I like pro-coding.  
 
