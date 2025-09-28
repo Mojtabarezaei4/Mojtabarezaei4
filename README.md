@@ -1,5 +1,5 @@
 # Mojtaba Rezaei
-##### .NET Developer student
+##### .NET and integration developer
 ---
 Is my name hard for you to pronounce? So call me Mojje, still hard? What about Moji?
 
