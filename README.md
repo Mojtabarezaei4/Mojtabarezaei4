@@ -5,7 +5,6 @@ Is my name hard for you to pronounce? So call me Mojje. Still hard? What about M
 
 I work with Azure, making integrations. I do C# coding off-work because I like pro-coding.  
 
-* Skills: .NET - AIS
 ---
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mojtabarezaei4)  -->
 
